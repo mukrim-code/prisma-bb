@@ -1,7 +1,7 @@
 {
  "app": "rekod-program-jawhar",
  "versi": 1,
- "dijana": "2026-11-14T22:49:45.862Z",
+ "dijana": "2026-11-18T01:57:47.431Z",
  "pilihan": {
   "namaPegawai": false,
   "catatan": false
@@ -1238,19 +1238,79 @@
    "tkp": "hadir"
   },
   {
+   "id": "pmwjwvc9qqc9q",
+   "nama": "Perbincangan Kumpulan Berfokus (FGD) berkaitan Pembayaran Zakat di Luar Kawasan Bekerja : Analisis Maslahah dan Mafsadah",
+   "tarikh": "2026-11-18",
+   "akhir": "",
+   "tempat": "Putrajaya Mariott Hotel",
+   "perasmi": "",
+   "kategori": "Dihadiri",
+   "peserta": "",
+   "catatan": "",
+   "pegawai": "Pegawai C\nPegawai E",
+   "pengurusan": "",
+   "kp": "tidak",
+   "tkp": "tidak"
+  },
+  {
+   "id": "pmwkd6u47nygr",
+   "nama": "Sesi Perbincangan berhubung Mekanisme Pelaksanaan Rebat Cukai Pendapatan Individu untuk Zakat Yang Dibayar bagi Pihak Pembayar Cukai",
+   "tarikh": "2026-11-18",
+   "akhir": "",
+   "tempat": "Bilik Mesyuarat Utama, Aras 6, Blok Tengah, MOF",
+   "perasmi": "Ketua Seksyen (Cukai Langsung)",
+   "kategori": "Dihadiri",
+   "peserta": "",
+   "catatan": "",
+   "pegawai": "Pegawai A\nPegawai B\nPegawai D",
+   "pengurusan": "",
+   "kp": "tidak",
+   "tkp": "tidak"
+  },
+  {
    "id": "pmwbk6vp1rd93",
    "nama": "Mesyuarat Pasukan Digital Sektor Pentadbiran Awam Bilangan 4 Tahun 2026",
    "tarikh": "2026-11-19",
    "akhir": "",
-   "tempat": "Dalam Talian",
-   "perasmi": "TKSUK JPM",
+   "tempat": "Setia Perdana 1, Kompleks Setia Perdana",
+   "perasmi": "TKSU (P) JPM",
    "kategori": "Dihadiri",
    "peserta": "",
    "catatan": "",
-   "pegawai": "",
+   "pegawai": "Pegawai A\nPegawai B",
    "pengurusan": "",
-   "kp": "",
-   "tkp": ""
+   "kp": "tidak",
+   "tkp": "tidak"
+  },
+  {
+   "id": "pmwjy0e3f8xc2",
+   "nama": "Konvensyen Institusi Amal Islam (KIAK) 2026 Peringkat Kebangsaan",
+   "tarikh": "2026-11-19",
+   "akhir": "",
+   "tempat": "Auditorium ANGKASA, Kelana Jaya",
+   "perasmi": "Menteri di JPM (HEA)",
+   "kategori": "Dihadiri",
+   "peserta": "",
+   "catatan": "",
+   "pegawai": "Pegawai D",
+   "pengurusan": "",
+   "kp": "tidak",
+   "tkp": "tidak"
+  },
+  {
+   "id": "pmwk1icqm4yrm",
+   "nama": "Majlis Pelancaran Bulan Zakat Negeri Sembilan",
+   "tarikh": "2026-11-19",
+   "akhir": "",
+   "tempat": "d'Tempat Country Club, Bandar Sri Sendayan",
+   "perasmi": "Menteri Besar Negeri Sembilan",
+   "kategori": "Dihadiri",
+   "peserta": "",
+   "catatan": "",
+   "pegawai": "Pegawai C\nPegawai H",
+   "pengurusan": "",
+   "kp": "tidak",
+   "tkp": "tidak"
   },
   {
    "id": "pmwbeh8ntgdsu",
@@ -1277,10 +1337,10 @@
    "kategori": "Dianjurkan",
    "peserta": "",
    "catatan": "",
-   "pegawai": "",
+   "pegawai": "Pegawai A\nPegawai B\nPegawai C\nPegawai D\nPegawai E",
    "pengurusan": "",
-   "kp": "",
-   "tkp": ""
+   "kp": "hadir",
+   "tkp": "hadir"
   },
   {
    "id": "s02",
@@ -1292,10 +1352,10 @@
    "kategori": "Dianjurkan",
    "peserta": "",
    "catatan": "",
-   "pegawai": "",
+   "pegawai": "Pegawai A\nPegawai B\nPegawai C\nPegawai D\nPegawai E",
    "pengurusan": "",
-   "kp": "",
-   "tkp": ""
+   "kp": "hadir",
+   "tkp": "hadir"
   },
   {
    "id": "s04",
@@ -1307,7 +1367,7 @@
    "kategori": "Dianjurkan",
    "peserta": "",
    "catatan": "",
-   "pegawai": "",
+   "pegawai": "Pegawai A\nPegawai B",
    "pengurusan": "",
    "kp": "hadir",
    "tkp": "hadir"
