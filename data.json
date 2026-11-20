@@ -1,7 +1,7 @@
 {
  "app": "rekod-program-jawhar",
  "versi": 1,
- "dijana": "2026-11-19T10:43:06.481Z",
+ "dijana": "2026-11-19T23:58:52.958Z",
  "pilihan": {
   "namaPegawai": false,
   "catatan": false
@@ -1308,6 +1308,21 @@
    "peserta": "",
    "catatan": "",
    "pegawai": "Pegawai C\nPegawai H",
+   "pengurusan": "",
+   "kp": "tidak",
+   "tkp": "tidak"
+  },
+  {
+   "id": "pmwo7izbohqsz",
+   "nama": "Perbincangan Bahagian Baitulmal",
+   "tarikh": "2026-11-20",
+   "akhir": "",
+   "tempat": "JAWHAR",
+   "perasmi": "P (B)",
+   "kategori": "Dianjurkan",
+   "peserta": "",
+   "catatan": "",
+   "pegawai": "Pegawai A\nPegawai B\nPegawai C\nPegawai D\nPegawai E\nPegawai F\nPegawai H\nPegawai I\nPegawai J\nPegawai L",
    "pengurusan": "",
    "kp": "tidak",
    "tkp": "tidak"
